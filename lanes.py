@@ -2,7 +2,8 @@ import cv2
 import numpy as np  
 import matplotlib.pyplot as  plt
 def 
-def make_coordinates(image,line_parameters):
+def
+sef make_coordinates(image,line_parameters):
     slope,intercept=line_parameters
     y1=image.shape[0]
     y2=int(y1*(3/5))
