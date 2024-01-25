@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
- 
+def 
  
 def draw(x1,x2):
   ln=plt.plot(x1,x2)
