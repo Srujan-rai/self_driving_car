@@ -1,2 +1,3 @@
 * self driving car using machine learning
-* TRAINED CNN MODel
+* Trained CNN model using tensorflow
+* able to distinguish obstacles
